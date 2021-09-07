@@ -4,10 +4,10 @@ date: 2021-09-09
 ---
 
 ## Before
-![Before](/images/yard_before.jpg)
+![Before](/blog/img/yard_before.jpg)
 
 ## After
-![Before](/img/yard_after.jpg)
+![Before](/blog/img/yard_after.jpg)
 
 The outside was done in several stages. Stage 1 was to prepare the house for winter,I replaced: 
 * Roof
